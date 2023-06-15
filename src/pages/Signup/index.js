@@ -57,7 +57,7 @@ const Signup = () => {
           onChange={(e) => [setSenha(e.target.value), setError("")]}
         />
         <C.labelError>{error}</C.labelError>
-        <Button Text="Inscrever-se" onClick={handleSignup} />
+        <Button Text="Sign up" onClick={handleSignup} />
         <C.LabelSignin>
           Already have an account?
           <C.Strong>
