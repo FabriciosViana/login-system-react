@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/login-system-react/static/js/main.b793602f.js",
+    "main.js": "/login-system-react/static/js/main.563589ef.js",
     "index.html": "/login-system-react/index.html",
-    "main.b793602f.js.map": "/login-system-react/static/js/main.b793602f.js.map"
+    "main.563589ef.js.map": "/login-system-react/static/js/main.563589ef.js.map"
   },
   "entrypoints": [
-    "static/js/main.b793602f.js"
+    "static/js/main.563589ef.js"
   ]
 }
