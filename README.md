@@ -52,7 +52,7 @@ This login system project can be customized to fit the specific requirements of 
 
 This project demonstrates the implementation of a login system using React, React Router DOM, Styled Components, and Context API. It serves as a foundation for building secure and user-friendly login functionalities for web applications. Feel free to explore and modify the project to suit your requirements.
 
-
+<hr>
 
 # Projeto de Sistema de Login 🚀
 ## PT-BR
