@@ -1,5 +1,9 @@
 # Login System Project 🚀
-  
+Languages:
+- [PT-BR](#pt-br)
+- [EN](#en)
+
+## EN
 Link for project: https://fabriciosviana.github.io/login-system-react/
 
 This is a login system project built using React, React Router DOM, Styled Components, and Context API. The purpose of this project is to provide a functional and visually appealing login system for web applications.
@@ -51,6 +55,7 @@ This project demonstrates the implementation of a login system using React, Reac
 
 
 # Projeto de Sistema de Login 🚀
+## PT-BR
 Link para o projeto: https://fabriciosviana.github.io/login-system-react/
 
 Este é um projeto de sistema de login construído usando React, React Router DOM, Styled Components e Context API. O propósito deste projeto é fornecer um sistema de login funcional e visualmente atraente para aplicações web.
